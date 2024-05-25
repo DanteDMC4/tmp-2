@@ -60,8 +60,6 @@ function App() {
     });
   }, []);
 
-  console.log(mammalPlanets)
-
   return (
     <div className=''>
       <h1 className="text-4xl font-bold text-center text-white m-8">Planets with Mammal Residents</h1>
